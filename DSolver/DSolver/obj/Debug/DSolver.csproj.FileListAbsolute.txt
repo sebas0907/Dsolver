@@ -1,0 +1,6 @@
+C:\Users\sebas\source\repos\DSolver\DSolver\bin\Debug\DSolver.exe.config
+C:\Users\sebas\source\repos\DSolver\DSolver\bin\Debug\DSolver.exe
+C:\Users\sebas\source\repos\DSolver\DSolver\bin\Debug\DSolver.pdb
+C:\Users\sebas\source\repos\DSolver\DSolver\obj\Debug\DSolver.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\DSolver\DSolver\obj\Debug\DSolver.exe
+C:\Users\sebas\source\repos\DSolver\DSolver\obj\Debug\DSolver.pdb
