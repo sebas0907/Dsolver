@@ -1,0 +1,6 @@
+C:\Users\sebas\source\repos\Dsolver_simple\Dsolver_simple\bin\Debug\Dsolver_simple.exe.config
+C:\Users\sebas\source\repos\Dsolver_simple\Dsolver_simple\bin\Debug\Dsolver_simple.exe
+C:\Users\sebas\source\repos\Dsolver_simple\Dsolver_simple\bin\Debug\Dsolver_simple.pdb
+C:\Users\sebas\source\repos\Dsolver_simple\Dsolver_simple\obj\Debug\Dsolver_simple.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Dsolver_simple\Dsolver_simple\obj\Debug\Dsolver_simple.exe
+C:\Users\sebas\source\repos\Dsolver_simple\Dsolver_simple\obj\Debug\Dsolver_simple.pdb
