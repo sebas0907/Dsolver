@@ -9,7 +9,7 @@ where *h* is the step size of the recursion and t_(n+1) = t_n + h.
 
 ## Initializing 
 Dsolver already contains as an example the solution the problem:
-x''(t) + x(t) + x = 0, with x(0) = x0, and x'(0) = v0, 
+x''(t) + x'(t) + x(t) = 0, with x(0) = x0, and x'(0) = v0, 
 
 this can be thought of as modelling a damped harmonic oscillator. The path to the solution consists in reducing the equation to a coupled system of first order differential equations of the form
 
