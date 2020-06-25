@@ -7,6 +7,18 @@ x_(n+1) = x_n + F(x_n, t_n)h
 
 where *h* is the step size of the recursion and t_(n+1) = t_n + h.
 
+##Runge-Kutta method
+The fourth-order Runge-Kutta method (RK4) is easily implemented in the present context by replacing F(x,t) in the recursion algorithm with the average of six different slopes:
+
+x_(n+1) = x_n + (k1 + 2k2 + 2k3 + k4)/6
+
+with 
+```
+k1 = F(x_n, t_n)*h,
+k2 = F(x_n + k/2, t_n + h/2)*h,
+k3 = F(x_n + k3/2, t_n + h/2)*h,
+k4 = F(x_n + k4, t_n + h)*h
+```
 ## Initializing 
 Dsolver already contains as an example the solution the problem:
 x''(t) + x'(t) + x(t) = 0, with x(0) = x0, and x'(0) = v0, 
